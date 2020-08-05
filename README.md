@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome to my GitHub account👋
 
 <!--
 **andrewh-code/andrewh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
