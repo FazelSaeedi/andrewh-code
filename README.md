@@ -7,30 +7,6 @@ I am a software developer from Canada that specializes in full stack web develop
 
 ### Specialties
 
-#### Frameworks
-- Java Spring (MVC)
-- Java Hibernate
-- Python Flask
-- Node.js
-- Express.js
-
-#### Front end
-- JavaScript
-- HTML
-- CSS
-
-#### Back end (languages)
-- Java
-- Python
-- GoLang
-- JavaScript
-
-#### Databases
-- PostgreSQL
-- IBM DB2
-- Oracle MySQL
-- MongoDB
-
 | Front End  | Back End | Languages | Databases | Systems |
 | ------------- | ------------- | ------------ | ------------- | ------------- |
 | React      | Spring (MVC)     | Java | PostgreSQL | Windows
