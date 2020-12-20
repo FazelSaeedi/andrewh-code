@@ -31,6 +31,14 @@ I am a software developer from Canada that specializes in full stack web develop
 - Oracle MySQL
 - MongoDB
 
+| Front End  | Back End | Languages | Databases | Systems |
+| ------------- | ------------- | ------------ | ------------- | ------------- |
+| React      | Spring (MVC)     | Java | PostgreSQL | Windows
+| Angular    | Hibernate     | Python | IBM DB2 | Linux/Unix
+| JavaScript (ES6) | Flask     | GoLang | Oracle MySQL | MacOSX
+| HTML/HTML5 | SQLAlchemy | JavaScript | MongoDB | Amazon AWS
+| CSS/CSS3   | Node.js | | | 
+| Bootstrap  | Express.js | | |
 
 <!--
 **andrewh-code/andrewh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
