@@ -5,8 +5,8 @@
 ### A little bit about me:
 I am a software developer from Canada that specializes in full stack web development, back end web development, data integration, and blockchain.
 
-### About Me
-```
+
+<!--
 var aboutMe = {
     "name": "Andrew H",
     "email": "andrewh[dot]code[@]gmail[dot]com",
@@ -28,8 +28,8 @@ var aboutMe = {
     "tools": ["git", "GitHub", "BitBucket", "Confluence", "JIRA", "Jenkins", "SonarQube"],
     "Systems": ["Windows", "MacOSX", "Linux", "Unix", "Amazon AWS"]
 }
-```
-<!--
+-->
+### Skills
 | Front End  | Back End | Languages | Databases | Systems |
 | ------------- | ------------- | ------------ | ------------- | ------------- |
 | React      | Spring (MVC)     | Java | PostgreSQL | Windows
@@ -38,7 +38,7 @@ var aboutMe = {
 | HTML/HTML5 | SQLAlchemy | JavaScript | MongoDB | Amazon AWS
 | CSS/CSS3   | Node.js | | | 
 | Bootstrap  | Express.js | | |
--->
+
 <!--
 **andrewh-code/andrewh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
