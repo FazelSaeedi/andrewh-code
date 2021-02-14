@@ -6,29 +6,30 @@
 I am a software developer from Canada that specializes in full stack web development, back end web development, data integration, and blockchain.
 
 
-<!--
+```javascript
 var aboutMe = {
-    "name": "Andrew H",
-    "email": "andrewh[dot]code[@]gmail[dot]com",
-    "profession": "Software Developer",
-    "location": "Canada",
-    "website": "https://andrewh-code.github.io",
-    "github": "https://github.com/andrewh-code",
-    "tech": {
-        "backEnd": {
-            "languages": ["Java", "Python", "GoLang", "JavaScript", "SQL"],
-            "frameworks": ["Spring MVC/Spring Boot", "Hibernate", "Node.js", "Express.js", "Flask", "SQLAlchemy"],
-            "databases": ["PostgreSQL", "Oracle MySQL", "IBM DB2", "MongoDB"]
+    name: "Andrew"
+    profession: "Software Developer",
+    location: "Canada",
+    website: "https://andrewh-code.github.io",
+    stack: {
+        backEnd: {
+            languages: [Java, Python, GoLang, JavaScript, SQL],
+            frameworks: [Spring MVC, Spring Boot, Hibernate, Node.js, Express.js, Flask, SQLAlchemy],
+            databases: [PostgreSQL, MySQL, IBM DB2, MongoDB]
         },
-        "frontEnd": {
-            "languages": ["JavaScript/JavaScript ES6", "HTML5", "CSS3"],
-            "frameworks": ["React.js", "Bootstrap"]
+        frontEnd: {
+            languages: [JavaScript, HTML5, CSS3],
+            frameworks: [React.js, Angular.js, Bootstrap, jQuery]
         }
     },
-    "tools": ["git", "GitHub", "BitBucket", "Confluence", "JIRA", "Jenkins", "SonarQube"],
-    "Systems": ["Windows", "MacOSX", "Linux", "Unix", "Amazon AWS"]
+    design: [REST APIs, MVC, Microservices, GraphQL],
+    processes: [Agile, Paired Programming, Waterfall, Test Driven Devleopment (TDD), Business Driven Development (BDD), SDLC]
+    tools: [Git, GitHub, BitBucket, Confluence, JIRA, Jenkins, SonarQube, Docker],
+    Systems: [Windows, MacOSX, Linux, Unix, Amazon AWS]
 }
--->
+```
+<!--
 ### Skills
 | Front End  | Back End | Languages | Databases | Systems |
 | ------------- | ------------- | ------------ | ------------- | ------------- |
@@ -38,7 +39,7 @@ var aboutMe = {
 | HTML/HTML5 | SQLAlchemy | JavaScript | MongoDB | Amazon AWS
 | CSS/CSS3   | Node.js | | | 
 | Bootstrap  | Express.js | | |
-
+-->
 <!--
 **andrewh-code/andrewh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
