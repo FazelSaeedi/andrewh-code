@@ -9,7 +9,7 @@ I am a software developer from Canada that specializes in full stack web develop
 ```javascript
 var aboutMe = {
     name: "Andrew"
-    profession: "Software Developer",
+    profession: "Full Stack Software Developer",
     location: "Canada",
     website: "https://andrewh-code.github.io",
     stack: {
