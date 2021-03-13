@@ -24,7 +24,7 @@ var aboutMe = {
         }
     },
     design: [REST APIs, MVC, Microservices, GraphQL],
-    processes: [Agile, Paired Programming, Waterfall, Test Driven Devleopment (TDD), Business Driven Development (BDD), SDLC]
+    processes: [Agile, Paired Programming, Waterfall, Test Driven Devleopment (TDD), Business Driven Development (BDD), SDLC],
     tools: [Git, GitHub, BitBucket, Confluence, JIRA, Jenkins, SonarQube, Docker],
     Systems: [Windows, MacOSX, Linux, Unix, Amazon AWS]
 }
